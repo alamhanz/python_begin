@@ -2,3 +2,4 @@ https://github.com/rajathkmp/Python-Lectures
 https://github.com/Akuli/python-tutorial
 https://medium.com/@ashwindesilva/how-to-use-google-colaboratory-to-clone-a-github-repository-e07cf8d3d22b
 https://www.geeksforgeeks.org/reading-writing-text-files-python/
+https://cs231n.github.io/python-numpy-tutorial/
